@@ -1,0 +1,14 @@
+[
+  {
+    "naam": "3D-geprint Sleutelhanger",
+    "prijs": 4.99,
+    "afbeelding": "sleutelhanger.jpg",
+    "bestellink": "https://www.mollie.com/paylink/example1"
+  },
+  {
+    "naam": "Miniatuur Auto",
+    "prijs": 14.95,
+    "afbeelding": "miniatuur_auto.jpg",
+    "bestellink": "https://www.mollie.com/paylink/example2"
+  }
+]
